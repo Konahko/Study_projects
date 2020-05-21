@@ -1,0 +1,9 @@
+﻿  json.cpp
+  parser.cpp
+C:\Users\Дима\source\repos\Server_parser\Server_parser\parser.cpp(19,43): warning C4042: input: имеет недопустимый класс хранения
+  Server.cpp
+C:\Users\Дима\source\repos\Server_parser\Server_parser\Server.cpp(11,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Дима\source\repos\Server_parser\Server_parser\Server.cpp(239,24): warning C4018: <: несоответствие типов со знаком и без знака
+  Server_parser.cpp
+  Создание кода...
+  Server_parser.vcxproj -> C:\Users\Дима\source\repos\Server_parser\Debug\Server_parser.exe
